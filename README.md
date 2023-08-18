@@ -32,11 +32,10 @@
 				</tr>
 				<tr>
 					<td>2.</td>
-					<td>i.Take two signals and show the circular convolution of the signals.
-ii. n1={0,0,0,2,2,2,1,1,1,0,2}
- n2={2,2 ,0,1,1,1,0,0,0,0,3}
+					<td>i.Take two signals and show the circular convolution of the signals.<br>
+ii. n1={0,0,0,2,2,2,1,1,1,0,2} ,n2={2,2 ,0,1,1,1,0,0,0,0,3},
 Plot the figure of the two signals and also plot the summation and 
-substraction of the two signals.
+substraction of the two signals.<br>
 iii. Draw two signals in one figure.</td>
 				</tr>
 				<tr>
